@@ -4,7 +4,7 @@
   "description": "A walkthrough of creating a responsive layout",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "keywords": [
     "flexbox",
@@ -14,5 +14,9 @@
     "tutorial"
   ],
   "author": "Vincent Ramdhanie",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vramdhanie/flexboxmuseum.git"
+  }
 }
