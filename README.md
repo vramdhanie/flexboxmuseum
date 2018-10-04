@@ -10,3 +10,8 @@ This repository is a demonstration of using flexbox and CSS grid to create a res
 Clone the repository and checkout the following tags corresponding to the part of the code you are interested in viewing.
 
 ### Tags
+
+
+
+## Acknowledgement
+Photos in this project are courtesy [Pexels](https://www.pexels.com/photo-license/) license free photographs.
